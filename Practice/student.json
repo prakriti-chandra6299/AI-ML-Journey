@@ -1,0 +1,11 @@
+{
+    "name": "Alex",
+    "age": 20,
+    "marks": 85,
+    "subjects": [
+        "Python",
+        "Math",
+        "Statistics"
+    ],
+    "passed": true
+}

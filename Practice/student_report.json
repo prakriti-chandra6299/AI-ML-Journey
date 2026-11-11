@@ -1,0 +1,52 @@
+[
+    {
+        "name": "Alex",
+        "marks": [
+            85,
+            90,
+            78
+        ],
+        "average": 84.33,
+        "grade": "B"
+    },
+    {
+        "name": "Jordan",
+        "marks": [
+            72,
+            80,
+            75
+        ],
+        "average": 75.67,
+        "grade": "C"
+    },
+    {
+        "name": "Taylor",
+        "marks": [
+            95,
+            92,
+            98
+        ],
+        "average": 95.0,
+        "grade": "A"
+    },
+    {
+        "name": "Morgan",
+        "marks": [
+            60,
+            68,
+            70
+        ],
+        "average": 66.0,
+        "grade": "D"
+    },
+    {
+        "name": "Casey",
+        "marks": [
+            88,
+            84,
+            91
+        ],
+        "average": 87.67,
+        "grade": "B"
+    }
+]
